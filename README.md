@@ -1,2 +1,2 @@
 # todoX
-Learn clean architecture with GetX
+Learn clean architecture with GetX 
